@@ -7,9 +7,9 @@ These instructions will get you a copy of the project up and running on your loc
 ## Prerequisites
 To work with this project you need to have the following installed on your local machine
 
-1. VirtualBox
-2. Vagrant
-3. Vscode
+1. [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
+2. [Vagrant](https://www.vagrantup.com/)
+3. [Vscode](https://code.visualstudio.com/download)
 
 ## Install and run locally
 
